@@ -1,0 +1,13 @@
+{
+	"core": {
+		"workingDir": "regTest",
+		"actualDir": "directory_contains_actual_images",
+		"thresholdRate": 0.5,
+		"ximgdiff": {
+			"invocationType": "client"
+		}
+	},
+	"plugins": {
+		"reg-keygen-git-hash-plugin": true
+	}
+}
