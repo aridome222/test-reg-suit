@@ -7,7 +7,5 @@
 			"invocationType": "client"
 		}
 	},
-	"plugins": {
-		"reg-keygen-git-hash-plugin": true
-	}
+	"plugins": {}
 }
