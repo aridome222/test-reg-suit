@@ -1,3 +1,7 @@
 node_modules
-regTest
+regTest/actual
+regTest/expected
+regTest/diff
+regTest/detector.wasm
+regTest/worker.js
 tmp
