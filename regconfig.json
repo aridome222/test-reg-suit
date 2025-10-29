@@ -1,8 +1,9 @@
 {
 	"core": {
 		"workingDir": "regTest",
-		"actualDir": "directory_contains_actual_images",
-		"thresholdRate": 0.5,
+		"actualDir": "./regTest/after",
+		"expectedDir": "./regTest/before",
+		"thresholdRate": 0,
 		"ximgdiff": {
 			"invocationType": "client"
 		}
